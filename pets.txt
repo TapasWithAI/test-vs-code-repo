@@ -6,5 +6,3 @@ Mocha
 George the frog
 Whyatt
 Meethi
-Doggo
-Coco
